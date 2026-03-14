@@ -42,7 +42,7 @@ ReqSense AI is an intelligent requirements engineering tool that uses generative
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/reqsense-ai.git
+git clone https://github.com/vibhav476/reqsense-ai.git
 cd reqsense-ai
 
 # Install backend dependencies
